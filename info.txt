@@ -1,0 +1,3 @@
+Primary Color:#004bb7
+Secondary Color: #97cf00
+Tietary Color:#ffcc2a
